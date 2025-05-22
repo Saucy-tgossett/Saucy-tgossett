@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm84ZjFvc29qOGFiOXhsNGo4Njloc2loeGc5Yno5YXI0Y21tMG5uciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CiNdMhyzdUUtkSvitR/giphy.gif"/>
+<img align="right" height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm84ZjFvc29qOGFiOXhsNGo4Njloc2loeGc5Yno5YXI0Y21tMG5uciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CiNdMhyzdUUtkSvitR/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saucy-tgossett&label=Profile%20views&color=0e75b6&style=flat" alt="saucy-tgossett" /> </p>
 
