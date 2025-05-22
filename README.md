@@ -3,7 +3,7 @@
 [//]: # (🌱 I’m currently learning ....)
 [//]: # (- 💬 Ask me about ....)
 
-<h2 align="center">Hi 👋, I'm Tylar</h2>
+<h2 align="center">Hi, I'm Tylar 👋</h2>
 <h3 align="center">A Computer Science Student Studying at Wright State University</h3>
 
 ###
