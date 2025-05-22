@@ -10,8 +10,6 @@
 
 <img align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm84ZjFvc29qOGFiOXhsNGo4Njloc2loeGc5Yno5YXI0Y21tMG5uciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CiNdMhyzdUUtkSvitR/giphy.gif"/>
 
-![](https://visitcount.itsvg.in/api?id=saucy-tgossett&icon=7&color=0)](https://visitcount.itsvg.in)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
