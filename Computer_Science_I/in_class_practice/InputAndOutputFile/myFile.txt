@@ -1,0 +1,6 @@
+5 
+harry 
+ron 
+hermonie 
+dumbledore 
+voldemort
