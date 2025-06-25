@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Python,HTML,C++**
 
-- 👨‍💻 All of my projects are available on [Github](https://github.com/Saucy-tgossett?tab=projects)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/Saucy-tgossett/Saucy-tgossett/tree/main/Projects)
 
 - 📫 How to reach me **Thisistylargossettsworkemail@gmail.com**
 
