@@ -1,6 +1,4 @@
-# Project Title
-
-Trivia Challenge
+# Trivia Challenge
 
 ## Project Description
 
