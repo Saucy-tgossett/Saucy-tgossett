@@ -22,6 +22,6 @@ Once you have everything installed click into the src folder located in the game
 
 To play this game all the user must do is  answer the question the program gives you. Once your done answering the questions you'll see your score at the end and you'll have the option to play again. 
 
-## LessonsLearned
+## Lessons Learned
 
 Along the way, I as the programmer have learned how to use and implement if-else loops as well as a basic understanding of how to use .equalsIgnoreCase. I've gotten better at being about to implement as use a scanner to efficiently get user inputs. Finally, I've learned how to use the debugger to help me debug my code.
