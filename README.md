@@ -11,7 +11,6 @@
 
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="450" alt="GitHub quote" />
-
 - 🌱 I’m currently learning **Python,HTML,C++**
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/Saucy-tgossett/Saucy-tgossett/tree/main/Projects)
