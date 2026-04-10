@@ -43,5 +43,11 @@
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saucy-tgossett/saucy-tgossett/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saucy-tgossett/saucy-tgossett/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/saucy-tgossett/saucy-tgossett/output/github-snake.svg" />
+</picture>
+
 <!-- Created with the help of GPRM ( https://gprm.itsvg.in ) -->
 
