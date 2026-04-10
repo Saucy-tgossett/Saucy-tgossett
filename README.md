@@ -2,7 +2,7 @@
 [//]: # (🌱 I’m currently learning ....)
 [//]: # (- 💬 Ask me about ....)
 
-<h2 align="center">Hello World, I'm Tylar 👋</h2>
+<h2 align="center">Hello, I'm Tylar 👋</h2>
 <h3 align="center">A Computer Science Student Studying at Wright State University</h3>
 
 ###
@@ -10,7 +10,8 @@
 <img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm84ZjFvc29qOGFiOXhsNGo4Njloc2loeGc5Yno5YXI0Y21tMG5uciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CiNdMhyzdUUtkSvitR/giphy.gif"/>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="200" />
 
 - 🌱 I’m currently learning **Python,HTML,C++**
 
