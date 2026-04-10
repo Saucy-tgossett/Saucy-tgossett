@@ -44,7 +44,12 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saucy-tgossett&theme=radical&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=saucy-tgossett&theme=radical&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saucy-tgossett&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=saucy-tgossett&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=saucy-tgossett&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saucy-tgossett&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saucy-tgossett/saucy-tgossett/output/github-snake-dark.svg" />
@@ -52,5 +57,5 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/saucy-tgossett/saucy-tgossett/output/github-snake.svg" />
 </picture>
 
-<!-- Proudly created with the help of GPRM ( https://gprm.itsvg.in ) -->
+<!-- Created with the help of GPRM ( https://gprm.itsvg.in ) -->
 
