@@ -30,6 +30,12 @@ _Clark State College, Springfield, Ohio_
 - Team Projects 1 & 2
 - Information Security
 
+|                                          	|                                             	|                         	|                             	|                       |
+|------------------------------------------	|---------------------------------------------	|-------------------------	|-----------------------------|------------------------	|
+| Data Structures & Algorithms             	| Intro to Design of Information Tech Systems 	| Technology and Society  	| Operating Systems and Usage 	| Technical Communications for Egr. and Comp Science 	|
+| Discrete Structures and Their Algorithms 	| Digital System Design                       	| Computer Science 1 & 2  	| Computer Organization       	| Comparative Languages |
+| Logic for Computer Scientists            	| Introduction to Software Engineering        	| OS Internals and Design 	| Team Projects 1 & 2         	| Information Security  |
+
 **TECHNICAL SKILLS**
 
 - _Programming Language:_ Knowledgeable in Java and Python
