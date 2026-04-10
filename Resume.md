@@ -1,5 +1,4 @@
 <h1 align="center">TYLAR GOSSETT</h1>
-<hr>
 <p align="center">(937) 543-1368 | thisistylargossettsworkemail@gmail.com | Urbana, Ohio</p>
 
 ### EDUCATION
