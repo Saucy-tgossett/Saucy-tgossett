@@ -1,25 +1,25 @@
-## TYLAR GOSSETT
-
-## (937) 543 - 1368 | thisistylargossettsworkemail@gmail.com | Urbana, Ohio
+<h1 align="center">TYLAR GOSSETT</h1>
+<hr>
+<p align="center">(937) 543-1368 | thisistylargossettsworkemail@gmail.com | Urbana, Ohio</p>
 
 ### EDUCATION
 
-**Bachelor of Science in Computer Science** May 202 6
+**Bachelor of Science in Computer Science** May 2026
 
 _Wright State University, Dayton, Ohio_
 
-**Associate of Science** May 20 23
+**Associate of Science** May 2023
 
 _Clark State College, Springfield, Ohio_
 
-**RELEVANT COURSEWORK**
+#### **RELEVANT COURSEWORK**
 
 | **Data Structures & Algorithms** | **Intro to Design of Information Tech Systems** | **Technology and Society** | **Operating Systems and Usage** | **Technical Communications for Engineering and Computer Science** |
 |:---:|:---:|:---:|:---:|:---:|
 | **Discrete Structures and Their Algorithms** | **Digital System Design** | **Computer Science 1 & 2** | **Computer Organization** | **Comparative Languages** |
 | **Logic for Computer Scientists** | **Introduction to Software Engineering** | **OS Internals and Design** | **Team Projects 1 & 2** | **Information Security** |
 
-**TECHNICAL SKILLS**
+#### **TECHNICAL SKILLS**
 
 - _Programming Language:_ Knowledgeable in Java and Python
 - _Operating Systems:_ Proficient in Windows 10 / 11 , Mac OS, and Linux
@@ -49,7 +49,7 @@ Wright State University – Dayton, Ohio
 - Configured and maintained containers, virtual networks, virtual machines, and the CSE department’s cloud
     environment while troubleshooting advanced technical issues.
 
-**CECS Dean’s Office Student Worker** August 20 23 – September 2025
+**CECS Dean’s Office Student Worker** August 2023 – September 2025
 Wright State University – Dayton, Ohio
 - Assist walk-in clients, manage phone inquiries, and address questions and concerns from students and faculty.
 
@@ -65,7 +65,7 @@ Clerk of Courts – Springfield, Ohio
 for all entries, thereby improving data accessibility for court staff.
 - Sorted and routed incoming and outgoing mail to appropriate court departments
 
-**RELEVANT PROJECTS**
+#### **RELEVANT PROJECTS**
 
 - Formulated a Cloud Formation template to build and config three web hosts and deploy a website in **AWS**
     relatively hands free.
