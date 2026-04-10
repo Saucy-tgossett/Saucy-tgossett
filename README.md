@@ -11,7 +11,7 @@
 
 ### ✍️ Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="200" />
+<img align="left" height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 - 🌱 I’m currently learning **Python,HTML,C++**
 
