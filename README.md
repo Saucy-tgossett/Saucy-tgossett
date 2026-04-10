@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **Thisistylargossettsworkemail@gmail.com**
 
-- ⚡ Fun fact **I do youtube for fun and I like to play the trumpet!**
-
 ### 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
