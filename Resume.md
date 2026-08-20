@@ -3,7 +3,7 @@
 
 ### EDUCATION
 
-**Bachelor of Science in Computer Science** May 2026
+**Bachelor of Science in Computer Science** December 2026
 
 _Wright State University, Dayton, Ohio_
 
