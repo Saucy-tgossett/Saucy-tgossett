@@ -7,68 +7,53 @@
 
 _Wright State University, Dayton, Ohio_
 
-**Associate of Science** May 2023
-
-_Clark State College, Springfield, Ohio_
-
-#### **RELEVANT COURSEWORK**
-
-| **Data Structures & Algorithms** | **Intro to Design of Information Tech Systems** | **Technology and Society** | **Operating Systems and Usage** | **Technical Communications for Engineering and Computer Science** |
-|:---:|:---:|:---:|:---:|:---:|
-| **Discrete Structures and Their Algorithms** | **Digital System Design** | **Computer Science 1 & 2** | **Computer Organization** | **Comparative Languages** |
-| **Logic for Computer Scientists** | **Introduction to Software Engineering** | **OS Internals and Design** | **Team Projects 1 & 2** | **Information Security** |
-
 #### **TECHNICAL SKILLS**
 
-- _Programming Language:_ Knowledgeable in Java and Python
-- _Operating Systems:_ Proficient in Windows 10 / 11 , Mac OS, and Linux
-- _Software Applications:_ Microsoft Office Products, Google Office Products, Basic knowledge in AWS
+  - _Programming Language:_ Knowledgeable in Java, Python, Racket, Ruby, C++, SQL
+  - _Operating Systems:_ Proficient in Windows 10 / 11 , Mac OS, and Linux
+  - _Software Applications:_ Microsoft Office Products, Google Office Products, Intermidiate knowledge in AWS
 
 ### CERTIFICATIONS
 
-**OSHA 10 –** Global Impact Stem Academy
-Skills: Workplace Safety, Identifying Hazards, Implementing Safety Procedures March 2022
-**Introduction to Python –** Sololearn June 2025
-Skills: Design, Data Analysis, Adaptability
-**Introduction to SQL –** Sololearn June 2025
-Skills: Design, Data Analysis, Adaptability,Flexibility
+**OSHA 10** March 2022
+
+_Global Impact Stem Academy_
+  - Skills: Workplace Safety, Identifying Hazards, Implementing Safety Procedures
 
 ### ACTIVITIES & EXPERIENCE
 
 **Esports** August 2024 – Current
-**Engineers Without Boarders** March 2025 – Current
-**Association of Computing Machinery** March 2025 – Current
-**CECS Student Systems Admin** September 2025 – Current
-Wright State University – Dayton, Ohio
+  - Skills: Leadership, Program management, and Budget management
 
-- Led Student Systems Administrator Level 1 and Level 2 teams by organizing workflows, assigning tasks, and
-    assisting with training and skill development.
-- Designed and supported IT systems, software infrastructure, GitHub projects, and feature development based
-    on user stories and end-user needs.
-- Configured and maintained containers, virtual networks, virtual machines, and the CSE department’s cloud
-    environment while troubleshooting advanced technical issues.
+
+**CECS Dev Team Level 3** September 2025 – Current
+
+_Wright State University – Dayton, Ohio_
+
+  - Lead Level 1 and Level 2 student workers as a CECS Dev Team Level 3, the highest student role, providing training, technical guidance, and support.
+  - Participate in weekly Scrum meetings and work directly with product owners to understand requirements, plan development tasks, and implement requested features.
+  - Designed and built a GitHub Classroom replacement to automate classroom repository creation, permissions, and management for students, TAs, and instructors.
+  - Maintain and improve the CECS Discord bot, including troubleshooting issues and updating course and class schedule information each semester.
 
 **CECS Dean’s Office Student Worker** August 2023 – September 2025
-Wright State University – Dayton, Ohio
-- Assist walk-in clients, manage phone inquiries, and address questions and concerns from students and faculty.
 
+_Wright State University – Dayton, Ohio_
 
-- Directs students and faculty to the appropriate university departments or personnel, ensuring efficient
-    navigation and support within the institution.
-- Supported orientation preparation, ensuring seamless onboarding for incoming students and improved resource
-    accessibility.
+  - Assist walk-in clients, manage phone inquiries, address student or faculty concerns, while training other student workers on office procedures and responsibilities.
+  - Directs students and faculty to the appropriate university departments or personnel, ensuring efficient navigation and support within the institution.
 
 **Student Intern** May 2022 – May 2023
-Clerk of Courts – Springfield, Ohio
-- Converted 500+ paper court case files into a searchable online database, ensuring accuracy and completeness
-for all entries, thereby improving data accessibility for court staff.
-- Sorted and routed incoming and outgoing mail to appropriate court departments
+
+_Clerk of Courts – Springfield, Ohio_
+
+  - Converted 500+ paper court case files into a searchable online database, ensuring accuracy and completeness for all entries, thereby improving data accessibility for court staff.
 
 #### **RELEVANT PROJECTS**
 
-- Formulated a Cloud Formation template to build and config three web hosts and deploy a website in **AWS**
-    relatively hands free.
-- Built and created a game similar to Wordle using **Java**.
-- Developed an organization tree program using **C++** and basic data structures.
+  - Formulated an **AWS CloudFormation** template to configure three web hosts and automate website deployment.
+  - Built a game similar to Wordle using **Java**.
+  - Developed an organization tree program using **C++** and fundamental data structures.
+  - Developed and maintain the `CECS Discord Bot` using **Python**, including troubleshooting and semesterly course schedule updates.
+  - Designed and built a `GitHub Classroom replacement` using **Bash** to automate repository creation, permissions, and course management.
 
 
