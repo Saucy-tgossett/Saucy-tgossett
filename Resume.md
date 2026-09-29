@@ -10,8 +10,8 @@ _Wright State University, Dayton, Ohio_
 #### **TECHNICAL SKILLS**
 
   - _Programming Language:_ Knowledgeable in Java, Python, Racket, Ruby, C++, SQL
-  - _Operating Systems:_ Proficient in Windows 10 / 11 , Mac OS, and Linux
-  - _Software Applications:_ Microsoft Office Products, Google Office Products, Intermidiate knowledge in AWS
+  - _Operating Systems:_ Proficient in Linux
+  - _Software Applications:_ Intermidiate knowledge in AWS
 
 ### CERTIFICATIONS
 
