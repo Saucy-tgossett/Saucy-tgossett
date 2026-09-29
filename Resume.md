@@ -32,8 +32,8 @@ _Wright State University – Dayton, Ohio_
 
   - Lead Level 1 and Level 2 student workers as a CECS Dev Team Level 3, the highest student role, providing training, technical guidance, and support.
   - Participate in weekly Scrum meetings and work directly with product owners to understand requirements, plan development tasks, and implement requested features.
-  - Designed and built a GitHub Classroom replacement to automate classroom repository creation, permissions, and management for students, TAs, and instructors.
-  - Maintain and improve the CECS Discord bot, including troubleshooting issues and updating course and class schedule information each semester.
+  - Designed and built a `GitHub Classroom` replacement to automate classroom repository creation, permissions, and management for students, TAs, and instructors.
+  - Maintain and improve the `CECS Discord bot`, including troubleshooting issues and updating course and class schedule information each semester.
 
 **CECS Dean’s Office Student Worker** August 2023 – September 2025
 
@@ -53,7 +53,5 @@ _Clerk of Courts – Springfield, Ohio_
   - Formulated an **AWS CloudFormation** template to configure three web hosts and automate website deployment.
   - Built a game similar to Wordle using **Java**.
   - Developed an organization tree program using **C++** and fundamental data structures.
-  - Developed and maintain the `CECS Discord Bot` using **Python**, including troubleshooting and semesterly course schedule updates.
-  - Designed and built a `GitHub Classroom replacement` using **Bash** to automate repository creation, permissions, and course management.
 
 
